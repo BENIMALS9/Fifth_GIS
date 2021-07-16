@@ -1,0 +1,50 @@
+﻿  FIfth_Gis.cpp
+D:\5GGG\FIfth_Gis\Geometry.h(102): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(107): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(106): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(135): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(157): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(179): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(180): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(183): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(194): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(195): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(199): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(240): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(242): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(267): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(269): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(294): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(295): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(299): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(300): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(302): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(314): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(315): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(319): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(320): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(322): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(398): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(447): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(455): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(481): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(545): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(586): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\Geometry.h(697): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\Geometry.h(708): warning C4018: “<”: 有符号/无符号不匹配
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(56): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const char *”
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(56): warning C4313: “printf”: 格式字符串中的“%d”与“const char *”类型的参数 1 冲突
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(449): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(459): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(458): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(461): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(460): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(466): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(465): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(468): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(467): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(473): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(472): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(475): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\5GGG\FIfth_Gis\FIfth_Gis.cpp(474): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  FIfth_Gis.vcxproj -> D:\5GGG\FIfth_Gis\x64\Debug\FIfth_Gis.exe

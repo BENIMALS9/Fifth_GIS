@@ -1,0 +1,29 @@
+﻿  FIfth_Gis.cpp
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(76): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(104): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(118): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(132): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(133): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(136): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(187): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(189): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(206): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(208): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(227): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(228): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(232): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(233): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(234): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(281): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(315): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(323): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(349): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(392): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(400): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(437): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(485): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(494): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\FIfth_Gis\FIfth_Gis\Geometry.h(500): warning C4018: “<”: 有符号/无符号不匹配
+D:\FIfth_Gis\FIfth_Gis\FIfth_Gis.cpp(39): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const char *”
+D:\FIfth_Gis\FIfth_Gis\FIfth_Gis.cpp(39): warning C4313: “printf”: 格式字符串中的“%d”与“const char *”类型的参数 1 冲突
+  FIfth_Gis.vcxproj -> D:\FIfth_Gis\FIfth_Gis\x64\Debug\FIfth_Gis.exe
