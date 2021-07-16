@@ -1,0 +1,2 @@
+D:\FIfth_Gis\FIfth_Gis\x64\Debug\FIfth_Gis.exe
+D:\FIfth_Gis\FIfth_Gis\x64\Debug\FIfth_Gis.pdb
